@@ -1,16 +1,21 @@
 # brew_crew
 
-A new Flutter application.
+A mobile application ( iOS, Android ) using Dart and Flutter framework for collecting coffee orders for a group.
 
-## Getting Started
+# Sign In / Register Page
 
-This project is a starting point for a Flutter application.
+A secure way to login and register. Built using state of the art Google's Firebase Authentication and Firebase Cloud Firestore.
 
-A few resources to get you started if this is your first Flutter project:
+![signin_and_registration](https://user-images.githubusercontent.com/26216439/100313956-76bbf380-2f6a-11eb-9472-91e61cd831e4.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Home Page
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A brief summary of coffee preferences for your group. A side note: the color of the coffee icon changes according to your preferences.
+
+![Homepage](https://user-images.githubusercontent.com/26216439/100313937-6f94e580-2f6a-11eb-914f-b6416b0844bf.png)
+
+# Update Settings
+
+On a cloudy day you might want to change your coffee's strenght and get something stronger. This apps allows you to change your settings easily.
+
+![Update_Settings](https://user-images.githubusercontent.com/26216439/100313932-6d328b80-2f6a-11eb-8ad4-f204ba574f4f.png)
